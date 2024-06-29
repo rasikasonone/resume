@@ -1,0 +1,153 @@
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+
+<div class="container">
+  <div class="header">
+    <div class="full-name">
+      <span class="first-name">Rasika</span> 
+      <span class="last-name">Sonone</span>
+    </div>
+    <div class="contact-info">
+      <span class="email">Email: </span>
+      <span class="email-val">sononerasika20@gmail.com</span>
+      <span class="separator"></span>
+      <span class="phone">Phone: </span>
+      <span class="phone-val">7666635142</span>
+    </div>
+    
+    <div class="about">
+      <span class="position">Web Developer </span>
+      <span class="desc">
+        A web developer with One year of experience specializing in HTML5, JavaScript, PHP, MySQL, database design, and front-end development. Adept at collaborating with dynamic teams to build high-quality websites and identify opportunities to enhance the user experience (UX).
+      </span>
+    </div>
+  </div>
+   <div class="details">
+    <div class="section">
+      <div class="section__title">Experience</div>
+      <div class="section__list">
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">Full stack developer intern</div>
+            <div class="addr">verzeo, pune</div>
+            <div class="duration">Nov 2022 - Nov 2023</div>
+          </div>
+          <div class="right">
+            <div class="name">Web developer</div>
+            <div class="desc">Verzeo logo
+Full-stack DeveloperFull-stack Developer
+Verzeo · InternshipVerzeo · Internship
+Jun 2022 - Jun 2023 · 1 yr 1 moJun 2022 to Jun 2023 · 1 yr 1 mo
+India · On-siteIndia · On-site
+1)Editing, authoring, or developing Website content, as well as directing content-creation team members.
+
+2)Backup files from websites to local folders for disaster recovery.
+
+3)Identifying and resolving problems discovered through consumer feedback and testing.1)Editing, authoring, or developing Website content, as well as directing content-creation team members. 2)Backup files from websites to local folders for disaster recovery. 3)Identifying and resolving problems discovered through consumer feedback and testing.
+AngularJS and Python (Programming Language)</div>
+          </div>
+        </div>
+                <div class="section__list-item">
+          <div class="left">
+            <div class="name">Software Developer</div>
+            <div class="addr">TECHPLEMENT</div>
+            <div class="duration">NOV 2023- PRESENT</div>
+          </div>
+          <div class="right">
+            <div class="name">References</div>
+            <div class="desc">Available On Request</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="section">
+      <div class="section__title">Education</div>
+      <div class="section__list">
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">Bachelor of Electrical Engineering</div>
+            <div class="addr">P.R.Pote Patil College Of Engineering & Management,Amravati,Maharashtra</div>
+            <div class="duration">August 2020 - June2023-CGPA-7.9</div>
+          </div>
+          <div class="right">
+           
+      
+  </div>
+     <div class="section">
+       <div class="section__title">Project</div>
+       <div class="section__list">
+         <div class="section__list-item">
+           <div class="name">Github Explorer</div>
+           <div class="text">GitHub is a fantastic platform that simplifies your life, has the potential to set you apart from other web developers, and hosts some of the most significant and fascinating coding projects now being worked on.
+
+A GitHub explorer is a moderately challenging project that will test your skills and knowledge beyond the basics of HTML, JavaScript, and other web development programming languages. With this project, you can build a search for repositories by keywords, filter them, view their details, enable people to save their favorite repositories, and delete them.
+</div>
+         </div>
+         
+         <div class="section__list-item">
+                    <div class="name">IOT Based Garbage Monitoring System With App Developement</div>
+           <div class="text">"Iot based garbage monitoring system with app development is an innovative project idea for maintaining cities clean and green.The smart garbage bins have ultrasonic sensors placed on the lid which detects the garbage level in bins and send a message on cell thorugh app." <a href="/login"></a>
+           </div>
+         </div>
+       </div>
+    </div>
+     <div class="section">
+       <div class="section__title">Skills</div>
+       <div class="skills">
+         <div class="skills__item">
+           <div class="left"><div class="name">
+             Javascript        </div></div>
+           <div class="right">
+                          <input  id="ck1" type="checkbox" checked/>
+
+             <label for="ck1"></label>
+                          <input id="ck2" type="checkbox" checked/>
+
+              <label for="ck2"></label>
+                         <input id="ck3" type="checkbox" />
+
+              <label for="ck3"></label>
+                           <input id="ck4" type="checkbox" />
+            <label for="ck4"></label>
+                          <input id="ck5" type="checkbox" />
+              <label for="ck5"></label>
+
+           </div>
+         </div>
+         
+       </div>
+       <div class="skills__item">
+           <div class="left"><div class="name">
+             CSS</div></div>
+           <div class="right">
+                          <input  id="ck1" type="checkbox" checked/>
+
+             <label for="ck1"></label>
+                          <input id="ck2" type="checkbox" checked/>
+
+              <label for="ck2"></label>
+                         <input id="ck3" type="checkbox" />
+
+              <label for="ck3"></label>
+                           <input id="ck4" type="checkbox" />
+            <label for="ck4"></label>
+                          <input id="ck5" type="checkbox" />
+              <label for="ck5"></label>
+
+           </div>
+         </div>
+         
+       </div>
+     <div class="section">
+     <div class="section__title">
+       Interests
+       </div>
+       <div class="section__list">
+         <div class="section__list-item">
+                  Football, programming,gaming
+          </div>
+       </div>
+     </div>
+     </div>
+  </div>
+</div>
